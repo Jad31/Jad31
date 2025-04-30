@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Software Engineer** and **An
 
 - 🧠 **[AI-Photostock](https://github.com/Jad31)**: AI-powered media storage with natural language search using LLMs and OpenAI API.
 - 🎧 **[NemaStudio](https://nemastudio.app)**: Real-time collaborative music creation in the browser. Modular synths meet WebAssembly.
-- 📊 **[Vitess: Arewefastyet](https://vitess.io/)**: Led the UI redesign of Vitess’ benchmarking tool. Speaker at KubeCon NA 2024 🎤&#8203;:contentReference[oaicite:0]{index=0}
+- 📊 **[Vitess: Arewefastyet](https://vitess.io/)**: Led the UI redesign of Vitess’ benchmarking tool. Speaker at KubeCon NA 2024 🎤
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Software Engineer** and **An
 
 - 🏗 Tech Lead @Gamma Solutions → Built customer service platforms with Angular, NestJS, and GitLab CI
 - 🤝 Linux Foundation Mentorship → Vitess maintainer & contributor (React, Go, HTMX)
-- 🛠 Angular, Nx, Monorepos, NgRx expert → Migrated 150+ modules to Nx for Airbus&#8203;:contentReference[oaicite:2]{index=2}
+- 🛠 Angular, Nx, Monorepos, NgRx expert → Migrated 150+ modules to Nx for Airbus
 - 📚 Speaker at KubeCon NA 2024 → Presented OSS mentorship stories and benchmark tooling
 - 🧪 R&D with LLMs → Integrated LangChain & Flowise for AI tooling at Bashroom
 
