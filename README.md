@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Software Engineer** and **An
 
 ## 🚀 Highlights
 
-- 🏗 Tech Lead @Gamma Solutions → Built customer service platforms with Angular, NestJS, and GitLab CI&#8203;:contentReference[oaicite:1]{index=1}
+- 🏗 Tech Lead @Gamma Solutions → Built customer service platforms with Angular, NestJS, and GitLab CI
 - 🤝 Linux Foundation Mentorship → Vitess maintainer & contributor (React, Go, HTMX)
 - 🛠 Angular, Nx, Monorepos, NgRx expert → Migrated 150+ modules to Nx for Airbus&#8203;:contentReference[oaicite:2]{index=2}
 - 📚 Speaker at KubeCon NA 2024 → Presented OSS mentorship stories and benchmark tooling
